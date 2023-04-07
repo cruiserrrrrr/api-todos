@@ -1,6 +1,6 @@
 {
-    "userList": {
-        "test1@gmail.com": {
+    "userList": [
+        {
             "email": "test1@gmail.com",
             "id": 1,
             "todosList": {
@@ -18,7 +18,7 @@
                 }
             }
         },
-        "test2@gmail.com": {
+        {
             "email": "test2@gmail.com",
             "id": 2,
             "todosList": {
@@ -36,7 +36,7 @@
                 }
             }
         },
-        "test3@gmail.com": {
+        {
             "email": "test3@gmail.com",
             "id": 3,
             "todosList": {
@@ -54,7 +54,7 @@
                 }
             }
         },
-        "test4@gmail.com": {
+        {
             "email": "test4@gmail.com",
             "id": 4,
             "todosList": {
@@ -72,7 +72,7 @@
                 }
             }
         },
-        "test5@gmail.com": {
+        {
             "email": "test5@gmail.com",
             "id": 5,
             "todosList": {
@@ -90,5 +90,5 @@
                 }
             }
         }
-    }
+    ]
 }
