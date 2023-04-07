@@ -1,0 +1,14 @@
+{
+    "cruiser@gmail.com": [
+        {
+            "todos": "complete application",
+            "tid": 123454,
+            "status": false
+        },
+        {
+            "todos": "create an application",
+            "tid": 23244,
+            "status": true
+        }
+    ]
+}
