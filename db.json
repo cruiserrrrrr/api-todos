@@ -2,7 +2,7 @@
     "userList": {
         "test1@gmail.com": {
             "email": "test1@gmail.com",
-            "uid": 1,
+            "id": 1,
             "todosList": {
                 "id1": {
                     "value": "todo1"
@@ -20,7 +20,7 @@
         },
         "test2@gmail.com": {
             "email": "test2@gmail.com",
-            "uid": 2,
+            "id": 2,
             "todosList": {
                 "id1": {
                     "value": "todo1"
@@ -38,7 +38,7 @@
         },
         "test3@gmail.com": {
             "email": "test3@gmail.com",
-            "uid": 3,
+            "id": 3,
             "todosList": {
                 "id1": {
                     "value": "todo1"
@@ -56,7 +56,7 @@
         },
         "test4@gmail.com": {
             "email": "test4@gmail.com",
-            "uid": 4,
+            "id": 4,
             "todosList": {
                 "id1": {
                     "value": "todo1"
@@ -74,7 +74,7 @@
         },
         "test5@gmail.com": {
             "email": "test5@gmail.com",
-            "uid": 5,
+            "id": 5,
             "todosList": {
                 "id1": {
                     "value": "todo1"
