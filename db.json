@@ -1,97 +1,15 @@
 {
     "userList": [
         {
-            "email": "test1@gmail.com",
-            "id": 1,
-            "todosList": {
-                "id": 11,
-                "list": {
-                    "id1":{
-                        "value": "todo1"
-                    },
-                    "id2":{
-                        "value": "todo1"
-                    },
-                    "id3":{
-                        "value": "todo1"
-                    },
-                    "id4":{
-                        "value": "todo1"
-                    }
-                }
-            }
-        },
+            "email": "cruiser@gmail.com",
+            "uid": 1
+        }
+    ],
+    "todosList":[
         {
-            "email": "test2@gmail.com",
-            "id": 2,
-            "todosList": {
-                "id1": {
-                    "value": "todo1"
-                },
-                "id2": {
-                    "value": "todo1"
-                },
-                "id3": {
-                    "value": "todo1"
-                },
-                "id4": {
-                    "value": "todo1"
-                }
-            }
-        },
-        {
-            "email": "test3@gmail.com",
-            "id": 3,
-            "todosList": {
-                "id1": {
-                    "value": "todo1"
-                },
-                "id2": {
-                    "value": "todo1"
-                },
-                "id3": {
-                    "value": "todo1"
-                },
-                "id4": {
-                    "value": "todo1"
-                }
-            }
-        },
-        {
-            "email": "test4@gmail.com",
-            "id": 4,
-            "todosList": {
-                "id1": {
-                    "value": "todo1"
-                },
-                "id2": {
-                    "value": "todo1"
-                },
-                "id3": {
-                    "value": "todo1"
-                },
-                "id4": {
-                    "value": "todo1"
-                }
-            }
-        },
-        {
-            "email": "test5@gmail.com",
-            "id": 5,
-            "todosList": {
-                "id1": {
-                    "value": "todo1"
-                },
-                "id2": {
-                    "value": "todo1"
-                },
-                "id3": {
-                    "value": "todo1"
-                },
-                "id4": {
-                    "value": "todo1"
-                }
-            }
+            "creatorEmail": "cruiser@gmail.com",
+            "tid": 1,
+            "case": "create app =)"
         }
     ]
 }
