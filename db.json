@@ -9,7 +9,8 @@
         {
             "creatorEmail": "cruiser@gmail.com",
             "tid": 1,
-            "case": "create app =)"
+            "case": "create app =)",
+            "todoStatus": true
         }
     ]
 }
