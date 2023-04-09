@@ -8,7 +8,7 @@
     "todosList":[
         {
             "creatorEmail": "cruiser@gmail.com",
-            "tid": 1,
+            "id": 1,
             "case": "create app =)",
             "todoStatus": true
         }
